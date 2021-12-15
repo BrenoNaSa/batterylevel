@@ -1,5 +1,5 @@
+import 'package:batterylevel/src/battery_level.dart';
 import 'package:flutter/material.dart';
-import 'package:batterylevel/batterylevel.dart';
 
 class MyHomePage extends StatefulWidget {
   const MyHomePage({Key? key}) : super(key: key);
