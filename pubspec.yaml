@@ -1,7 +1,6 @@
 name: batterylevel
 description: A new Flutter package project.
 version: 1.0.0
-author: Breno Nascimento Santos <breno.afaq@gmail.com>
 homepage: https://github.com/BrenoNaSa/batterylevel
 
 environment:
